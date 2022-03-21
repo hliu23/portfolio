@@ -4,7 +4,7 @@
     "name": "Brebeuf Schedule 5754929",
     "authors": ["Sara Cikrit Schmit '22", "Hechen Liu '23"],
     "description": "Apps Script project that let you receive notifications at the start of each class according to your personal schedule and the newest Brebeuf schedule. ",
-    "link": "https://github.com/hliu23/Brebeuf-Schedule-5754929",
+    "githubLink": "https://github.com/hliu23/Brebeuf-Schedule-5754929",
     "status": "Last Updated 2021/6/26"
   },
   "coding-club-website": {
@@ -12,7 +12,16 @@
     "name": "Coding Club Website",
     "authors": ["Hechen Liu '23"],
     "description": "A website built with Gatsby and Bootstrap that contains information about the Brebeuf Coding Club, including current events, articles, and projects. ",
-    "link": "https://github.com/hliu23/bcc",
-    "status": "Current Project"
+    "githubLink": "https://github.com/hliu23/bcc",
+    "status": "Last Updated 2022/1/28"
+  },
+  "daily-carbon-footprint-calculator": {
+    "image": "images/daily-carbon-footprint-calculator.jpg",
+    "name": "Daily Carbon Footprint Calculator",
+    "authors": ["Hechen Liu '23"],
+    "description": "A website that help you track your daily carbon footprint with a few seconds each day. Built for Nextech Summer Coding Challenge 2021",
+    "githubLink": "https://github.com/hliu23/daily-carbon-footprint-calculator",
+    "status": "Unfinished & Unmaintained"
+    
   }
 }

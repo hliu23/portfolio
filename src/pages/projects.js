@@ -37,7 +37,7 @@ const projectsPage = ({ data }) => {
               name={JSONData[key].name}
               authors={JSONData[key].authors}
               description={JSONData[key].description}
-              link={JSONData[key].link}
+              githubLink={JSONData[key].githubLink}
               status={JSONData[key].status}
             >
             </Project>
@@ -69,3 +69,5 @@ query {
 `
 
 // project.js, project.json, projects.js
+
+// github api?

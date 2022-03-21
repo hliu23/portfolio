@@ -4,7 +4,7 @@ import { GatsbyImage } from "gatsby-plugin-image";
 
 
 const Project = (props) => {
-  // imageData, name, authors, description, updatedDate, link
+  // imageData, name, authors, description, updatedDate, githubLink
   let authors = "";
   props.authors.forEach((author, index) => {
     authors += author;
@@ -29,7 +29,7 @@ const Project = (props) => {
           <p className="card-text">{props.description}</p>
         </div>
         <p className="card-link text-center">
-          <a href={props.link} className="btn btn-primary">View Project</a>
+          <a href={props.githubLink} className="btn btn-primary">View Project</a>
         </p>
       </div>
     </div>
